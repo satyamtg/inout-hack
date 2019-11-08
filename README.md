@@ -1,6 +1,7 @@
 # VRScript
 
 VRScript is a visual, easy to use and completely revolutionary programming language that aims to minimize the steep learning curve of getting into programming.
+And HTML is used to make webpage.
 
 
 # How to get started with the development version ?
